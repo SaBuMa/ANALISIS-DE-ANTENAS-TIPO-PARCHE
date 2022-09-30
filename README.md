@@ -1,4 +1,4 @@
-# ANALISIS-DE-ANTENAS-TIPO-PARCHE
+# ANALISIS-DE-ANTENAS-TIPO-PARCHE USANDO ANSYS ELECTRONICS
 
 Diseño y análisis de dos configuraciones de antenas parche, el primer modelo de simulación será una antena parche sin inset, el segundo modelo será una antena parche con inset, ambas con acoplador lambda/4 para mejorar el acople de impedancias. 
 
