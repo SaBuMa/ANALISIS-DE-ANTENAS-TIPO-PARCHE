@@ -16,7 +16,7 @@ Este diseño de antenas parche será posteriormente utilizado para elaborar un a
 * Polarización lineal.
 
 ### Antena parche 2x1  
-<img src="Git_Images/An_patch_2x1.png" alt="An_patch_2x1" width="500"/>
+<img src="Git_Images/An_patch_2x1.png" alt="An_patch_2x1" width="300"/>
 
 ### Antena parche 8x2  
 <img src="Git_Images/An_patch_8x2.png" alt="An_patch_8x2"/>  
