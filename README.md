@@ -7,12 +7,21 @@ En este informe se plantea el __diseño de dos modelos de antena parche (con ins
 ![An_patch_noinset](Git_Images/An_patch_noinset.png)
 <sup> Antena parche sin inset <sup> 
 
+![An_patch_inset](Git_Images/An_patch_inset.png)
+<sup> Antena parche con inset <sup> 
+
 Este diseño de antenas parche será posteriormente utilizado para elaborar un arreglo de antenas parche que en este paper se __plantea como primera medida un arreglo 1x2__, optimizando el número de antenas del arreglo, donde se espera obtener un patrón de radiación de cosecante cuadrado. Finalmente una vez se analiza el comportamiento del arreglo 1x2, se desarrolla el __análisis y diseño de antenas 8x2__ y se comparan los resultados con el paper escogido en cuanto a sus parámetros. Para la implementación de un arreglo de antenas parche se tienen las siguientes caracteristicas de radiación:
 * Ancho de banda de 1,93 GHz
 * Radiación en la frecuencia X – de 8 a 12 GHz
 * Ganancia pico de 14,95 dBi
-* Polarización lineal  
-  
+* Polarización lineal
+
+![An_patch_2x1](Git_Images/An_patch_2x1.png)
+<sup> Antena parche 2x1 <sup>
+![An_patch_8x2](Git_Images/An_patch_8x2.png)
+<sup> Antena parche 8x2 <sup> 
+![Rad_Pat](Git_Images/Rad_Pat.png)
+<sup> Patro de Radiacion <sup> 
   
 # Referencias // _Referencess_
 * [UWB Microstrip Antenna Based on Circular Patch Topology with Stepped Feedline and Partial Ground Plane](https://ieeexplore.ieee.org/document/6237932)
